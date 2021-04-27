@@ -1,0 +1,74 @@
+   img {
+       width: 24%;
+       height: 24%;
+       display: inline-flex;
+       margin: 10px 7.5px;
+   }
+
+   #img {
+       clear: both;
+       margin: 10px 10px 10px 10px;
+   }
+
+   h1,h2,h3 {
+       font-family: 'Quicksand', sans-serif;
+   }
+
+   p,a,ul,li {
+       font-family: 'Quicksand', sans-serif;
+       font-weight: 300;
+   }
+
+   #RegrasLocal {
+       width: 50%;
+       background-color: rgba(238, 239, 240, 0.329) 
+   }
+
+   p {
+       font-size: 20px;
+       margin-top: -1px;
+       margin-bottom: -1px;
+   }
+
+   .Avaliações {
+       background-color: rgba(238, 239, 240, 0.329);
+       background-attachment: fixed;
+   }
+
+   #clientes #cli1 {
+       width: 50%;
+       height: fit-content;
+       display: table-cell;
+   }
+
+   #cli2 {
+       width: 50%;
+       height: fit-content;
+       display: table-cell;
+   }
+
+   h2 {
+       font-size: 30px;
+   }
+   h3 {
+       font-size: 26px;
+   }
+
+   a {
+       font-size: 20px;
+   }
+
+li  {
+    width: 60%;
+    font-size: 17px;
+       height: fit-content;
+       margin: 5px;
+       font-style: italic;
+   }
+   .valor {
+       background-color: rgba(119, 136, 153, 0.151);
+    position:fixed;
+    left: 80%;
+    top: 90%;
+    right: 20px;
+}
